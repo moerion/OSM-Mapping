@@ -8,7 +8,7 @@ Lane information is imported for each link segment. The DynusT data did not work
 
 Now that all of the information has been collected and organized, the last script draws the roads in the blender environment.
 
-Initially, the project was meant to allow for an exact replica of the Las Vegas area to be used for a driving simulator but it was later decided that it should be able to recreate any area chosen from the OSM database.
+I worked on this project while attending UNLV and working for the Transportation Research Center under Dr. Pushkin. Initially, the project was meant to allow for an exact replica of the Las Vegas area to be used for a driving simulator but it was later decided that it should be able to recreate any area chosen from the OSM database in a dynamic and fully automated way.
 
 I was in charge of developing the initial graphics and interfacing Blender with the hardware controllers we used for the simulator.
 
