@@ -1,6 +1,6 @@
 Using http://www.openstreetmap.org/ to download a .XML map file and a DynusT data file, the python scripts will recreate the chosen map area in a 3d environment using Blender software.
 
-The xml will first be parsed to create a node list file and a link list file (either xml or csv). These will be the roads and intersections.
+The xml file will first be parsed to create a node list file and a link list file in csv (initially in xls but that caused problems later on). These will be the roads and intersections.
 
 The links will then be split into segments that connect the nodes.
 
